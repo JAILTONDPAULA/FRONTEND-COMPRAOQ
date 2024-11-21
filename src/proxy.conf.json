@@ -1,0 +1,7 @@
+{
+	"/usuarios": {
+		"target": "http://localhost:82/",
+		"secure": false,
+		"changeOrigin": true
+	}
+}
